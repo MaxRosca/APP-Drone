@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheHub</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="open_close">OPEN/ClOSE</string>
+    <string name="open_closee">OPEN/CLOSE</string>
+    <string name="_14_2v">14.2v</string>
+    <string name="_14_2vw">14.2V</string>
+    <string name="TextView">Connection:</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
